@@ -1,2 +1,2 @@
-# newlife_charging_backstage
+# 坚信新生活管理后台基础框架
 
